@@ -9,7 +9,7 @@
   "author": "Michael Hirsch <michael@hirsch.me>",
   "license": "GNU",
   "dependencies": {
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.2.0",
