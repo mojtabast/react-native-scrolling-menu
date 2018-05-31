@@ -13,6 +13,8 @@ import ReactNative, {
   View
 } from 'react-native';
 
+import PropTypes from 'prop-types';
+
 class ScrollingMenu extends Component {
 
   constructor(props) {
